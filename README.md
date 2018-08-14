@@ -10,4 +10,4 @@ The reason for a PI is that we can use it as a server for a database, but also i
 
 The PI posts the values it reads over the usb cable to the server via a python script which runs at all times.
 
-![alt text](https://imgur.com/a/pVSCroj)
+![alt text](https://i.imgur.com/1xJGT5v.png)
